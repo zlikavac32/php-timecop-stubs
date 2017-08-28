@@ -1,6 +1,6 @@
-# PHP timecop function stubs
+# php-timecop function stubs
 
-Define and document functions available from [php-timecop](https://github.com/hnw/php-timecop) extension to enable IDE-s code assist for it.
+This repository defines and documents functions available from [php-timecop](https://github.com/hnw/php-timecop) extension to enable IDE-s code assist for it.
 
 Example from PHPStorm is provided below.
 
