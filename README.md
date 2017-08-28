@@ -10,6 +10,11 @@ Example from PHPStorm is provided below.
 
 Just clone/download this repository somewhere on your computer and point one of your IDE-s include paths to that location. That should provide `timecop_*` functions code assist. 
 
+## Further work
+
+- document `Timecop::*` methods
+- update things as time goes by
+
 ## Resources
 
 - [php-timecop GitHub repository](https://github.com/hnw/php-timecop)
